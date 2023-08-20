@@ -1,6 +1,6 @@
 # calendar_app1
 
-A new Flutter project.
+myCalendar Flutter project.
 
 ## Getting Started
 
